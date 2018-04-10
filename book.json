@@ -1,0 +1,46 @@
+
+
+
+
+
+{
+    "title": "销帮帮CRM用户FAQ",
+    "description": "销帮帮CRM的使用问题解答",
+    "author": "xbongbong",
+    "output.name": "site",
+    "language": "zh-hans",
+    
+    "root": ".",
+    "structure": {
+        "readme": "readme.md"
+    },
+    
+    "plugins": [
+        "-lunr",
+        "-search",
+        "-highlight",
+        "-livereload",
+        "search-pro",
+		"sitemap",
+		 "tbfed-pagefooter"
+    ],
+	"pluginsConfig": {
+		"search-pro": {
+			"cutWordLib": "nodejieba",
+			"defineWord" : ["请输入关键词搜索"]
+		},
+		"sitemap": {
+			"hostname": "http://faq.xbongbong.com/"
+		},
+		"tbfed-pagefooter": {
+        "copyright":"Copyright &copy xbongbong.com 2018",
+        "modify_label": "该文件修订时间：",
+        "modify_format": "YYYY-MM-DD HH:mm:ss"
+    }
+	}
+
+     
+
+        
+    
+}
