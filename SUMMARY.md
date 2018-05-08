@@ -183,6 +183,7 @@
   * [统计问题](yi-nan-wen-ti-faq/tong-ji-wen-ti.md)
     * [1、首页看板数据是如何统计的](yi-nan-wen-ti-faq/tong-ji-wen-ti/13001-shou-ye-kan-ban-shu-ju-shi-ru-he-tong-ji-de.md)
     * [2、首页看板合同金额统计有误为什么](yi-nan-wen-ti-faq/tong-ji-wen-ti/23001-shou-ye-kan-ban-he-tong-jin-e-tong-ji-you-wu-wei-shi-yao.md)
+    * [3、首页看板实际回款统计问题](yi-nan-wen-ti-faq/tong-ji-wen-ti/33001-shou-ye-kan-ban-shi-ji-hui-kuan-tong-ji-wen-ti.md)
   * [权限](yi-nan-wen-ti-faq/quan-xian.md)
     * [1、为什么设置了助理角色，却只能看到自己的数据。](yi-nan-wen-ti-faq/quan-xian/13001-wei-shi-yao-she-zhi-le-zhu-li-jiao-se-ff0c-que-zhi-neng-kan-dao-zi-ji-de-shu-ju-3002.md)
     * [2、我是主管角色，为啥看不到下属员工数据？](yi-nan-wen-ti-faq/quan-xian/23001-wo-shi-zhu-guan-jiao-se-ff0c-wei-sha-kan-bu-dao-xia-shu-yuan-gong-shu-ju-ff1f.md)
