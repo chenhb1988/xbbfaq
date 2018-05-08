@@ -186,6 +186,7 @@
     * [3、首页看板实际回款统计问题](yi-nan-wen-ti-faq/tong-ji-wen-ti/33001-shou-ye-kan-ban-shi-ji-hui-kuan-tong-ji-wen-ti.md)
     * [4、PK榜能否自定义人员进行PK](yi-nan-wen-ti-faq/tong-ji-wen-ti/4pkbang-neng-fou-zi-ding-yi-ren-yuan-jin-xing-pk.md)
     * [5、图标中心活跃度如何统计](yi-nan-wen-ti-faq/tong-ji-wen-ti/53001-tu-biao-zhong-xin-huo-yue-du-ru-he-tong-ji.md)
+    * [6、销售漏斗是如何统计的](yi-nan-wen-ti-faq/tong-ji-wen-ti/63001-xiao-shou-lou-dou-shi-ru-he-tong-ji-de.md)
   * [权限](yi-nan-wen-ti-faq/quan-xian.md)
     * [1、为什么设置了助理角色，却只能看到自己的数据。](yi-nan-wen-ti-faq/quan-xian/13001-wei-shi-yao-she-zhi-le-zhu-li-jiao-se-ff0c-que-zhi-neng-kan-dao-zi-ji-de-shu-ju-3002.md)
     * [2、我是主管角色，为啥看不到下属员工数据？](yi-nan-wen-ti-faq/quan-xian/23001-wo-shi-zhu-guan-jiao-se-ff0c-wei-sha-kan-bu-dao-xia-shu-yuan-gong-shu-ju-ff1f.md)
