@@ -194,7 +194,7 @@
     * [3、回收站彻底删除客户，哪个角色才可以操作？](yi-nan-wen-ti-faq/quan-xian/33001-hui-shou-zhan-che-di-shan-chu-ke-hu-ff0c-na-ge-jiao-se-cai-ke-yi-cao-zuo-ff1f.md)
     * [4、能否设置一个权限，能看到全公司全部合同信息，但是客户只能看到自己的？](yi-nan-wen-ti-faq/quan-xian/43001-neng-fou-she-zhi-yi-ge-quan-xian-ff0c-neng-kan-dao-quan-gong-si-quan-bu-he-tong-xin-xi-ff0c-dan-shi-ke-hu-zhi-neng-kan-dao-zi-ji-de-ff1f.md)
     * [5、为啥合同中没有“生成出库单”按钮，需要什么权限才可以？](yi-nan-wen-ti-faq/quan-xian/53001-wei-sha-he-tong-zhong-mei-you-201c-sheng-cheng-chu-ku-dan-201d-an-niu-ff0c-xu-yao-shi-yao-quan-xian-cai-ke-yi-ff1f.md)
-    * [6、我已经在销帮帮中是销售部主管了，为啥今天刷新了下可见范围，看不到自己的下属员工数据了？](yi-nan-wen-ti-faq/quan-xian/63001-wo-yi-jing-zai-xiao-bang-bang-zhong-shi-xiao-shou-bu-zhu-guan-le-ff0c-wei-sha-jin-tian-shua-xin-le-xia-ke-jian-fan-wei-ff0c-kan-bu-dao-zi-ji-de-xia-shu-yuan-gong-shu-ju-le-ff1f.md)
+    * [6、我已经在销帮帮中是销售部主管了，看不到下属员工数据？](yi-nan-wen-ti-faq/quan-xian/63001-wo-yi-jing-zai-xiao-bang-bang-zhong-shi-xiao-shou-bu-zhu-guan-le-ff0c-wei-sha-jin-tian-shua-xin-le-xia-ke-jian-fan-wei-ff0c-kan-bu-dao-zi-ji-de-xia-shu-yuan-gong-shu-ju-le-ff1f.md)
     * [7、员工管理中 ，一个人分配了多个角色，是如何生效的？](yi-nan-wen-ti-faq/quan-xian/73001-yuan-gong-guan-li-zhong-ff0c-yi-ge-ren-fen-pei-le-duo-ge-jiao-se-ff0c-shi-ru-he-sheng-xiao-de-ff1f.md)
 * [呼叫中心使用FAQ](hu-jiao-zhong-xin-shi-yong-faq.md)
   * [坐席分配问题](hu-jiao-zhong-xin-shi-yong-faq/yi-3001-zuo-xi-fen-pei-wen-ti.md)
