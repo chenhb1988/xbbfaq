@@ -197,4 +197,23 @@
     * [5、为啥合同中没有“生成出库单”按钮，需要什么权限才可以？](yi-nan-wen-ti-faq/quan-xian/53001-wei-sha-he-tong-zhong-mei-you-201c-sheng-cheng-chu-ku-dan-201d-an-niu-ff0c-xu-yao-shi-yao-quan-xian-cai-ke-yi-ff1f.md)
     * [6、我已经在销帮帮中是销售部主管了，为啥今天刷新了下可见范围，看不到自己的下属员工数据了？](yi-nan-wen-ti-faq/quan-xian/63001-wo-yi-jing-zai-xiao-bang-bang-zhong-shi-xiao-shou-bu-zhu-guan-le-ff0c-wei-sha-jin-tian-shua-xin-le-xia-ke-jian-fan-wei-ff0c-kan-bu-dao-zi-ji-de-xia-shu-yuan-gong-shu-ju-le-ff1f.md)
     * [7、员工管理中 ，一个人分配了多个角色，是如何生效的？](yi-nan-wen-ti-faq/quan-xian/73001-yuan-gong-guan-li-zhong-ff0c-yi-ge-ren-fen-pei-le-duo-ge-jiao-se-ff0c-shi-ru-he-sheng-xiao-de-ff1f.md)
+* [呼叫中心使用FAQ](hu-jiao-zhong-xin-shi-yong-faq.md)
+  * [坐席分配问题](hu-jiao-zhong-xin-shi-yong-faq/yi-3001-zuo-xi-fen-pei-wen-ti.md)
+    * [1、坐席分配了但是找不到](hu-jiao-zhong-xin-shi-yong-faq/yi-3001-zuo-xi-fen-pei-wen-ti/zuo-xi-fen-pei-le-dan-shi-zhao-bu-dao.md)
+    * [2、为何增加不了坐席](hu-jiao-zhong-xin-shi-yong-faq/yi-3001-zuo-xi-fen-pei-wen-ti/23001-wei-he-zeng-jia-bu-le-zuo-xi.md)
+  * [线路问题](hu-jiao-zhong-xin-shi-yong-faq/xian-lu-wen-ti.md)
+    * [1、一条线路能够给几个部门用](hu-jiao-zhong-xin-shi-yong-faq/xian-lu-wen-ti/13001-yi-tiao-xian-lu-neng-gou-gei-ji-ge-bu-men-yong.md)
+    * [2、一个号码给多部门使用](hu-jiao-zhong-xin-shi-yong-faq/xian-lu-wen-ti/23001-yi-ge-hao-ma-gei-duo-bu-men-shi-yong.md)
+    * [3、一个部门分配多条线路](hu-jiao-zhong-xin-shi-yong-faq/xian-lu-wen-ti/33001-yi-ge-bu-men-fen-pei-duo-tiao-xian-lu.md)
+    * [4、号码被标记广告推销，能否更换](hu-jiao-zhong-xin-shi-yong-faq/xian-lu-wen-ti/43001-hao-ma-bei-biao-ji-guang-gao-tui-xiao-ff0c-neng-fou-geng-huan.md)
+  * [拨号和呼叫问题](hu-jiao-zhong-xin-shi-yong-faq/bo-hao-he-hu-jiao-wen-ti.md)
+    * [1、右侧呼叫功能（CTI）不能弹出](hu-jiao-zhong-xin-shi-yong-faq/bo-hao-he-hu-jiao-wen-ti/13001-you-ce-hu-jiao-gong-neng-ff08-cti-ff09-bu-neng-dan-chu.md)
+    * [2、CTI打开后，没有任何信息加载失败](hu-jiao-zhong-xin-shi-yong-faq/bo-hao-he-hu-jiao-wen-ti/ctida-kai-hou-ff0c-mei-you-ren-he-xin-xi-jia-zai-shi-bai.md)
+    * 3、拨打提示：麦克风设备被禁用、呼叫失败
+    * 4、打直接报错：数据异常
+    * 5、接通后，对方听不到我说话，如何处理
+  * [接听和显示问题](hu-jiao-zhong-xin-shi-yong-faq/jie-ting-he-xian-shi-wen-ti.md)
+    * [1、一条线路，五个坐席呼叫，号码如何显示](hu-jiao-zhong-xin-shi-yong-faq/jie-ting-he-xian-shi-wen-ti/13001-yi-tiao-xian-lu-ff0c-wu-ge-zuo-xi-hu-jiao-ff0c-hao-ma-ru-he-xian-shi.md)
+    * [2、客户回拨电话系统如何分配](hu-jiao-zhong-xin-shi-yong-faq/jie-ting-he-xian-shi-wen-ti/23001-ke-hu-hui-bo-dian-hua-ru-he-xian-shi.md)
+    * [3、来电后记录的是否会自动记录到跟进记录中](hu-jiao-zhong-xin-shi-yong-faq/jie-ting-he-xian-shi-wen-ti/33001-lai-dian-hou-ji-lu-de-shi-fou-hui-zi-dong-ji-lu-dao-gen-jin-ji-lu-zhong.md)
 
