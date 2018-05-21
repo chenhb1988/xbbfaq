@@ -17,7 +17,6 @@
     * [1、如果公司有50个人，只让20个人进入销帮帮，怎么操作？](xiao-bang-bang-shi-yong-ke-jian-fan-wei/13001-ru-guo-gong-si-you-50-ge-ren-ff0c-zhi-rang-20-ge-ren-jin-ru-xiao-bang-bang-ff0c-zen-yao-cao-zuo-ff1f.md)
     * [2、钉钉上面找不到销帮帮图标，无法进入？](xiao-bang-bang-shi-yong-ke-jian-fan-wei/23001-ding-ding-shang-mian-zhao-bu-dao-xiao-bang-bang-tu-biao-ff0c-wu-fa-jin-ru-ff1f.md)
     * [4、员工都可以进入，就超管不能进入销帮帮？](xiao-bang-bang-shi-yong-ke-jian-fan-wei/43001-yuan-gong-du-ke-yi-jin-ru-ff0c-jiu-chao-guan-bu-neng-jin-ru-xiao-bang-bang-ff1f.md)
-    * [5、可见范围都设置可见，点击销帮帮图标还是进不去，扫描二维码登陆报error错误](xiao-bang-bang-shi-yong-ke-jian-fan-wei/53001-ke-jian-fan-wei-du-she-zhi-ke-jian-ff0c-dian-ji-xiao-bang-bang-tu-biao-huan-shi-jin-bu-qu-ff0c-sao-miao-er-wei-ma-deng-lu-bao-error-cuo-wu.md)
     * [6、可见销帮帮进入系统按钮 ，为什么点击没有反应？](xiao-bang-bang-shi-yong-ke-jian-fan-wei/63001-ke-jian-xiao-bang-bang-jin-ru-xi-tong-an-niu-ff0c-wei-shi-yao-dian-ji-mei-you-fan-ying-ff1f.md)
     * [7、将员工添加入销帮帮中，但是员工还是进不去？](xiao-bang-bang-shi-yong-ke-jian-fan-wei/73001-jiang-yuan-gong-tian-jia-ru-xiao-bang-bang-zhong-ff0c-dan-shi-yuan-gong-huan-shi-jin-bu-qu-ff1f.md)
     * [8、电脑端钉钉端口登录点击无效，网页扫码可以登录问题](xiao-bang-bang-shi-yong-ke-jian-fan-wei/83001-dian-nao-duan-ding-ding-duan-kou-deng-lu-dian-ji-wu-xiao-ff0c-wang-ye-sao-ma-ke-yi-deng-lu-wen-ti.md)
